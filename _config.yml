@@ -21,7 +21,7 @@ repository               : "yi5111/yi5111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "cat.png"
   name             : "Yifei Cai"
   pronouns         : # example: "she/her"  
   bio              : "Embracing the light while it burns"
