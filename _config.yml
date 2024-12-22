@@ -6,7 +6,7 @@ email: yifeicai18@gmail.com
 description: "Embracing the light while it burns."
 keyword: "记录学习与生活~"
 url: "http://yi5111.github.io"          # your host, for absolute URL
-baseurl: "yi5111/"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/yi5111/yi5111.github.io.git" # you code repository
 
 # Sidebar settings
